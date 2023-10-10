@@ -69,10 +69,11 @@ body{
     display: grid;
     grid-template-columns: repeat(2, minmax(140px, 1fr));
     align-items: center;
-    gap: 30px;
-    word-break: break-all;}
+    gap: 30px;}
 @media (max-width: 768px) {
-.OurAchievements .row{grid-template-columns: 1fr;}}
+.OurAchievements .row{
+    text-align: center;
+    grid-template-columns: 1fr;}}
 .OurAchievements .row img{
     object-fit: cover;
     max-height: 383px;
