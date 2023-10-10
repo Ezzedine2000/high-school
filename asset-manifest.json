@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/high-school/static/css/main.cd8691f5.css",
+    "main.js": "/high-school/static/js/main.41731f6d.js",
+    "static/media/teamImage.png": "/high-school/static/media/teamImage.69d554ed261aa611e929.png",
+    "static/media/headerImage.svg": "/high-school/static/media/headerImage.8745d02dc13029b845e9.svg",
+    "index.html": "/high-school/index.html",
+    "main.cd8691f5.css.map": "/high-school/static/css/main.cd8691f5.css.map",
+    "main.41731f6d.js.map": "/high-school/static/js/main.41731f6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd8691f5.css",
+    "static/js/main.41731f6d.js"
+  ]
+}
