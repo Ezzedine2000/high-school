@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/high-school/static/css/main.d58b6869.css",
-    "main.js": "/high-school/static/js/main.41731f6d.js",
+    "main.css": "/high-school/static/css/main.0d10cb49.css",
+    "main.js": "/high-school/static/js/main.26fec05b.js",
     "static/media/teamImage.png": "/high-school/static/media/teamImage.69d554ed261aa611e929.png",
-    "static/media/headerImage.svg": "/high-school/static/media/headerImage.8745d02dc13029b845e9.svg",
+    "static/media/headerImage.svg": "/high-school/static/media/headerImage.220daa356462e7e75d23.svg",
     "index.html": "/high-school/index.html",
-    "main.d58b6869.css.map": "/high-school/static/css/main.d58b6869.css.map",
-    "main.41731f6d.js.map": "/high-school/static/js/main.41731f6d.js.map"
+    "main.0d10cb49.css.map": "/high-school/static/css/main.0d10cb49.css.map",
+    "main.26fec05b.js.map": "/high-school/static/js/main.26fec05b.js.map"
   },
   "entrypoints": [
-    "static/css/main.d58b6869.css",
-    "static/js/main.41731f6d.js"
+    "static/css/main.0d10cb49.css",
+    "static/js/main.26fec05b.js"
   ]
 }
