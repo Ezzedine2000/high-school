@@ -8,7 +8,7 @@ const FIxedNavBar = () => {
         });
     };
     return (
-        <Headroom>
+        <Headroom style={{ position: 'fixed', zIndex: 999 }}>
             <Navbar sticky="top" expand="lg" className="bg-body-tertiary">
                 <Container>
                     <Flip top><Navbar.Brand onClick={scrollToSection} role="button" data-section='.Header'>ثانوية عزالدين بن الوزير</Navbar.Brand></Flip>
